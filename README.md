@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230273
+# Name:Sriharikumar k
+# Date:04-11-26
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="957" height="761" alt="image" src="https://github.com/user-attachments/assets/3034d391-a2eb-44dd-8bba-e1702d9fb23e" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="948" height="758" alt="image" src="https://github.com/user-attachments/assets/eb28f7a9-bfc9-43a9-86f6-73f273d396fa" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="945" height="686" alt="image" src="https://github.com/user-attachments/assets/b1689a05-35af-414f-b8c8-d54a605731bc" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,8 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
+<img width="962" height="747" alt="image" src="https://github.com/user-attachments/assets/2da05743-cdae-40db-b0ae-2e1d3d87a1f1" />
 
 
 
@@ -97,6 +99,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="852" height="707" alt="image" src="https://github.com/user-attachments/assets/b93ee7e2-f92f-45eb-8a47-20958a98e732" />
 
 
 
@@ -118,7 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+<img width="862" height="677" alt="image" src="https://github.com/user-attachments/assets/31362c60-bf04-40a5-b9ca-788b893c1c94" />
 
 
 
